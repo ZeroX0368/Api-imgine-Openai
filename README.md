@@ -4,7 +4,7 @@ Run `node index.js`
 
 api/generate-image?prompt=cat&width=512&height=512
 
-Json Chat Ai `{
+Json Blackbox.Ai `{
   "message": "What Is Javascript"
 }`
 
